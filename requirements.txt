@@ -1,0 +1,7 @@
+-r requirements-training.txt
+scipy==1.10.1
+scikit-image==0.16.2
+matplotlib==3.7.5
+tqdm==4.67.1
+kornia==0.7.3
+kornia_rs==0.1.10

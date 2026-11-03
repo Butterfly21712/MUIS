@@ -1,0 +1,22 @@
+[
+  {
+    "file": "evaluation/alignment.py",
+    "variable": "MUIS_PATH_023",
+    "default": "data/external/muis_path_023/input1"
+  },
+  {
+    "file": "evaluation/alignment.py",
+    "variable": "MUIS_PATH_024",
+    "default": "data/external/muis_path_024/input2"
+  },
+  {
+    "file": "inference/pair.py",
+    "variable": "MUIS_PATH_030",
+    "default": "data/external/muis_path_030/4/"
+  },
+  {
+    "file": "inference/dataset.py",
+    "variable": "MUIS_PATH_031",
+    "default": "data/external/muis_path_031/test/"
+  }
+]

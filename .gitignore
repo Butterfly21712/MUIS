@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.idea/
+.env
+data/
+weights/
+model/
+summary/
+pic/
+*.pth
+*.pt
+runs/
+external/
+
+!epoch050_newmodel.pth
+results/
